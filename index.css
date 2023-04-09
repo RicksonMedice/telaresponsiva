@@ -1,0 +1,21 @@
+img{
+    width: 150px;
+    height: 150px;
+    margin-left: 2px;
+    margin-bottom: 4px;
+    border-radius: 5px;
+    margin-top: 2px;
+    
+
+    
+    
+}
+
+@media screen and (min-width: 600px) {
+    .imagens {
+        margin: auto;
+    }
+    img{
+        margin: 1%;
+    }
+}
